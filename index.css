@@ -1,0 +1,19 @@
+#messages {
+    background: azure;
+    width: 200px;
+}
+
+.message {
+    background: lightblue;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.message-content {
+    display: inline-block;
+}
+
+.message-stamp {
+    display: inline-block;
+    text-align: right;
+}
